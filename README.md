@@ -1,4 +1,4 @@
-# Flexbox Notes
+# CSS Notes
 
 Notes on CSS
 
